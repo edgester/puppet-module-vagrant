@@ -29,13 +29,10 @@
 #
 # === Authors
 #
-# Author Name <author@domain.com>
+# Jason Edgecombe <jason@rampaginggeek.com>
 #
 # === Copyright
 #
-# Copyright 2011 Your name here, unless otherwise noted.
+# Copyright 2012 Jason Edgecombe, unless otherwise noted.
 #
-class vagrant {
-
-
-}
+class vagrant {}
